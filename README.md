@@ -1,14 +1,10 @@
 # ALUYA.ai Resume
 
-A Jekyll implementation of all my datascience projects so far
+A little presentation of all my datascience projects so far
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+Shoutaluya is a one self taught Datascientist for creatives, small businesses, and multinational organizations.
+The webpage includes a number of feature rich services and projects that you can use as a measure to determine if we're a good fit for your next project! 
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+See it live in action at <https://shoutaluya.github.io/> 
 
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+## To hire Charles aluya in your DataScience project...
